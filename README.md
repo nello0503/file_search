@@ -1,6 +1,5 @@
 # file_search
-Scrivere, eseguire e consegnare un programma in python che
-fa le seguenti operazioni:
+Il seguente programma in Python:
 
 1) richiede all'utente 3 parametri di input:
  	a) una parola da cercare (es. correlazione) PARAM1
